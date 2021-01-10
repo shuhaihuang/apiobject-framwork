@@ -1,0 +1,94 @@
+2021-01-09 20:05:24 INFO  Test01_ApiActionModelTest:17 - hello world!
+2021-01-09 20:27:35 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'corpid' in [${corpid}] 
+2021-01-09 20:27:35 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'corpsecret' in [${corpsecret}] 
+2021-01-09 21:52:19 INFO  Test03_ApiLoaderTest:23 - debugger!
+2021-01-09 21:54:54 INFO  Test03_ApiLoaderTest:23 - debugger!
+2021-01-09 22:09:39 INFO  Test03_ApiLoaderTest:24 - debugger!
+2021-01-10 00:18:00 INFO  Test04_StepModelTest:26 - debugger!
+2021-01-10 00:18:07 INFO  StepModel:110 - step鍙橀噺鏇存柊锛� {accesstoken=x3FJqInC11AXeHOxqfAzzJIaq-0xA2zHisiViCWxk_T2FzB6t7InwdwwiyUUrpPseC4dfuapyBjweUTdPZXGZysQ95hd1RUiSZK2NH6_Hbf-2cPTw6zMXEfRKsOyrvdYlg-SGEtlnloFOaO-zP6oSfj_Ijo7ruFSynYuNO5D3e83nab78ZxcMDEbwnYRVM2YByAIHam7rIm849dIEL2BxQ}
+2021-01-10 00:18:07 INFO  StepModel:121 - 鍏ㄥ眬鍙橀噺鏇存柊锛� {accesstoken=x3FJqInC11AXeHOxqfAzzJIaq-0xA2zHisiViCWxk_T2FzB6t7InwdwwiyUUrpPseC4dfuapyBjweUTdPZXGZysQ95hd1RUiSZK2NH6_Hbf-2cPTw6zMXEfRKsOyrvdYlg-SGEtlnloFOaO-zP6oSfj_Ijo7ruFSynYuNO5D3e83nab78ZxcMDEbwnYRVM2YByAIHam7rIm849dIEL2BxQ}
+2021-01-10 00:18:22 INFO  Test04_StepModelTest:60 - Debugger!
+2021-01-10 00:18:59 INFO  Test04_StepModelTest:26 - debugger!
+2021-01-10 00:19:04 INFO  StepModel:110 - step鍙橀噺鏇存柊锛� {accesstoken=x3FJqInC11AXeHOxqfAzzJIaq-0xA2zHisiViCWxk_T2FzB6t7InwdwwiyUUrpPseC4dfuapyBjweUTdPZXGZysQ95hd1RUiSZK2NH6_Hbf-2cPTw6zMXEfRKsOyrvdYlg-SGEtlnloFOaO-zP6oSfj_Ijo7ruFSynYuNO5D3e83nab78ZxcMDEbwnYRVM2YByAIHam7rIm849dIEL2BxQ}
+2021-01-10 00:19:04 INFO  StepModel:121 - 鍏ㄥ眬鍙橀噺鏇存柊锛� {accesstoken=x3FJqInC11AXeHOxqfAzzJIaq-0xA2zHisiViCWxk_T2FzB6t7InwdwwiyUUrpPseC4dfuapyBjweUTdPZXGZysQ95hd1RUiSZK2NH6_Hbf-2cPTw6zMXEfRKsOyrvdYlg-SGEtlnloFOaO-zP6oSfj_Ijo7ruFSynYuNO5D3e83nab78ZxcMDEbwnYRVM2YByAIHam7rIm849dIEL2BxQ}
+2021-01-10 00:19:04 INFO  Test04_StepModelTest:60 - Debugger!
+2021-01-10 00:20:30 INFO  Test04_StepModelTest:26 - debugger!
+2021-01-10 00:20:36 INFO  StepModel:110 - step鍙橀噺鏇存柊锛� {accesstoken=x3FJqInC11AXeHOxqfAzzJIaq-0xA2zHisiViCWxk_T2FzB6t7InwdwwiyUUrpPseC4dfuapyBjweUTdPZXGZysQ95hd1RUiSZK2NH6_Hbf-2cPTw6zMXEfRKsOyrvdYlg-SGEtlnloFOaO-zP6oSfj_Ijo7ruFSynYuNO5D3e83nab78ZxcMDEbwnYRVM2YByAIHam7rIm849dIEL2BxQ}
+2021-01-10 00:20:36 INFO  StepModel:121 - 鍏ㄥ眬鍙橀噺鏇存柊锛� {accesstoken=x3FJqInC11AXeHOxqfAzzJIaq-0xA2zHisiViCWxk_T2FzB6t7InwdwwiyUUrpPseC4dfuapyBjweUTdPZXGZysQ95hd1RUiSZK2NH6_Hbf-2cPTw6zMXEfRKsOyrvdYlg-SGEtlnloFOaO-zP6oSfj_Ijo7ruFSynYuNO5D3e83nab78ZxcMDEbwnYRVM2YByAIHam7rIm849dIEL2BxQ}
+2021-01-10 00:20:36 INFO  Test04_StepModelTest:60 - Debugger!
+2021-01-10 00:22:02 INFO  Test04_StepModelTest:26 - debugger!
+2021-01-10 00:22:07 INFO  StepModel:110 - step变量更新： {accesstoken=x3FJqInC11AXeHOxqfAzzJIaq-0xA2zHisiViCWxk_T2FzB6t7InwdwwiyUUrpPseC4dfuapyBjweUTdPZXGZysQ95hd1RUiSZK2NH6_Hbf-2cPTw6zMXEfRKsOyrvdYlg-SGEtlnloFOaO-zP6oSfj_Ijo7ruFSynYuNO5D3e83nab78ZxcMDEbwnYRVM2YByAIHam7rIm849dIEL2BxQ}
+2021-01-10 00:22:07 INFO  StepModel:121 - 全局变量更新： {accesstoken=x3FJqInC11AXeHOxqfAzzJIaq-0xA2zHisiViCWxk_T2FzB6t7InwdwwiyUUrpPseC4dfuapyBjweUTdPZXGZysQ95hd1RUiSZK2NH6_Hbf-2cPTw6zMXEfRKsOyrvdYlg-SGEtlnloFOaO-zP6oSfj_Ijo7ruFSynYuNO5D3e83nab78ZxcMDEbwnYRVM2YByAIHam7rIm849dIEL2BxQ}
+2021-01-10 21:15:16 INFO  Test05_ApiTestCaseTest:27 - debugger!
+2021-01-10 21:17:41 INFO  Test05_ApiTestCaseTest:32 - Debugger!
+2021-01-10 21:19:37 INFO  Test05_ApiTestCaseTest:27 - debugger!
+2021-01-10 21:19:37 INFO  ApiTestCaseModel:83 - 用例变量更新： {getTimeStamp=1610284777545}
+2021-01-10 21:19:42 INFO  StepModel:121 - 全局变量更新： {accesstoken=i1L4rwJLrhwaC_ABHRvls7bPmWgKbTQj3RJRxwVuQofEwWLdC0GrFaxZtHqsdo0GWjiC8FdC-Fq8Zsrk5YXIYEuTNfSBGmgt5tzVj0ssWKTZ3uGE7COjdWHL0aPPA9Eq-16vvgSfCSKuNprnHjm3k4HCyf7shR-TXiHUbLn-WdaDZCthGtHYHjTFRzWTv-682WhGhGJy6ne9UBN8JUhPrA}
+2021-01-10 21:19:42 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:19:42 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name_en' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:19:43 INFO  StepModel:110 - step变量更新： {departmentId=8}
+2021-01-10 21:19:43 INFO  ApiTestCaseModel:94 - testcae变量更新： {getTimeStamp=1610284777545, departmentId=8}
+2021-01-10 21:22:35 INFO  Test05_ApiTestCaseTest:27 - debugger!
+2021-01-10 21:22:35 INFO  ApiTestCaseModel:83 - 用例变量更新： {getTimeStamp=1610284955634}
+2021-01-10 21:22:40 INFO  StepModel:121 - 全局变量更新： {accesstoken=i1L4rwJLrhwaC_ABHRvls7bPmWgKbTQj3RJRxwVuQofEwWLdC0GrFaxZtHqsdo0GWjiC8FdC-Fq8Zsrk5YXIYEuTNfSBGmgt5tzVj0ssWKTZ3uGE7COjdWHL0aPPA9Eq-16vvgSfCSKuNprnHjm3k4HCyf7shR-TXiHUbLn-WdaDZCthGtHYHjTFRzWTv-682WhGhGJy6ne9UBN8JUhPrA}
+2021-01-10 21:22:40 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:22:40 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name_en' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:22:41 INFO  StepModel:110 - step变量更新： {departmentId=9}
+2021-01-10 21:22:41 INFO  ApiTestCaseModel:94 - testcae变量更新： {getTimeStamp=1610284955634, departmentId=9}
+2021-01-10 21:24:23 INFO  Test05_ApiTestCaseTest:27 - debugger!
+2021-01-10 21:24:24 INFO  Test05_ApiTestCaseTest:32 - Debugger!
+2021-01-10 21:24:24 INFO  ApiTestCaseModel:83 - 用例变量更新： {getTimeStamp=1610285064166}
+2021-01-10 21:24:28 INFO  StepModel:121 - 全局变量更新： {accesstoken=i1L4rwJLrhwaC_ABHRvls7bPmWgKbTQj3RJRxwVuQofEwWLdC0GrFaxZtHqsdo0GWjiC8FdC-Fq8Zsrk5YXIYEuTNfSBGmgt5tzVj0ssWKTZ3uGE7COjdWHL0aPPA9Eq-16vvgSfCSKuNprnHjm3k4HCyf7shR-TXiHUbLn-WdaDZCthGtHYHjTFRzWTv-682WhGhGJy6ne9UBN8JUhPrA}
+2021-01-10 21:24:28 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:24:28 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name_en' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:24:29 INFO  StepModel:110 - step变量更新： {departmentId=10}
+2021-01-10 21:24:29 INFO  ApiTestCaseModel:94 - testcae变量更新： {getTimeStamp=1610285064166, departmentId=10}
+2021-01-10 21:28:27 INFO  Test05_ApiTestCaseTest:27 - debugger!
+2021-01-10 21:28:28 INFO  ApiTestCaseModel:83 - 用例变量更新： {getTimeStamp=1610285308114}
+2021-01-10 21:28:35 INFO  StepModel:121 - 全局变量更新： {accesstoken=i1L4rwJLrhwaC_ABHRvls7bPmWgKbTQj3RJRxwVuQofEwWLdC0GrFaxZtHqsdo0GWjiC8FdC-Fq8Zsrk5YXIYEuTNfSBGmgt5tzVj0ssWKTZ3uGE7COjdWHL0aPPA9Eq-16vvgSfCSKuNprnHjm3k4HCyf7shR-TXiHUbLn-WdaDZCthGtHYHjTFRzWTv-682WhGhGJy6ne9UBN8JUhPrA}
+2021-01-10 21:28:35 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:28:35 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name_en' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:28:36 INFO  StepModel:110 - step变量更新： {departmentId=11}
+2021-01-10 21:28:36 INFO  ApiTestCaseModel:94 - testcae变量更新： {getTimeStamp=1610285308114, departmentId=11}
+2021-01-10 21:30:57 INFO  Test05_ApiTestCaseTest:38 - Debugger!
+2021-01-10 21:32:01 INFO  Test05_ApiTestCaseTest:27 - debugger!
+2021-01-10 21:32:02 INFO  ApiTestCaseModel:83 - 用例变量更新： {getTimeStamp=1610285522222}
+2021-01-10 21:32:06 INFO  StepModel:121 - 全局变量更新： {accesstoken=i1L4rwJLrhwaC_ABHRvls7bPmWgKbTQj3RJRxwVuQofEwWLdC0GrFaxZtHqsdo0GWjiC8FdC-Fq8Zsrk5YXIYEuTNfSBGmgt5tzVj0ssWKTZ3uGE7COjdWHL0aPPA9Eq-16vvgSfCSKuNprnHjm3k4HCyf7shR-TXiHUbLn-WdaDZCthGtHYHjTFRzWTv-682WhGhGJy6ne9UBN8JUhPrA}
+2021-01-10 21:32:06 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:32:06 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name_en' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:32:07 INFO  StepModel:110 - step变量更新： {departmentId=12}
+2021-01-10 21:32:07 INFO  ApiTestCaseModel:94 - testcae变量更新： {getTimeStamp=1610285522222, departmentId=12}
+2021-01-10 21:42:07 INFO  StepModel:36 - 【用例开始执行】
+2021-01-10 21:42:07 INFO  StepModel:37 - 用例名称： creatdepartment
+2021-01-10 21:42:07 INFO  StepModel:38 - 用例描述： 初步测试创建部门用例
+2021-01-10 21:42:07 INFO  ApiTestCaseModel:83 - 用例变量更新： {getTimeStamp=1610286127904}
+2021-01-10 21:42:12 INFO  StepModel:121 - 全局变量更新： {accesstoken=i1L4rwJLrhwaC_ABHRvls7bPmWgKbTQj3RJRxwVuQofEwWLdC0GrFaxZtHqsdo0GWjiC8FdC-Fq8Zsrk5YXIYEuTNfSBGmgt5tzVj0ssWKTZ3uGE7COjdWHL0aPPA9Eq-16vvgSfCSKuNprnHjm3k4HCyf7shR-TXiHUbLn-WdaDZCthGtHYHjTFRzWTv-682WhGhGJy6ne9UBN8JUhPrA}
+2021-01-10 21:42:12 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:42:12 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name_en' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:42:13 INFO  StepModel:110 - step变量更新： {departmentId=13}
+2021-01-10 21:42:13 INFO  ApiTestCaseModel:94 - testcae变量更新： {getTimeStamp=1610286127904, departmentId=13}
+2021-01-10 21:42:14 INFO  StepModel:36 - 【用例开始执行】
+2021-01-10 21:42:14 INFO  StepModel:37 - 用例名称： getToken
+2021-01-10 21:42:14 INFO  StepModel:38 - 用例描述： 获取Token方法测试用例
+2021-01-10 21:42:14 INFO  ApiTestCaseModel:83 - 用例变量更新： {getTimeStamp=1610286134225}
+2021-01-10 21:42:14 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'corpid' in [${corpid}] 
+2021-01-10 21:42:14 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'corpsecret' in [${corpsecret}] 
+2021-01-10 21:42:14 INFO  StepModel:121 - 全局变量更新： {accesstoken=i1L4rwJLrhwaC_ABHRvls7bPmWgKbTQj3RJRxwVuQofEwWLdC0GrFaxZtHqsdo0GWjiC8FdC-Fq8Zsrk5YXIYEuTNfSBGmgt5tzVj0ssWKTZ3uGE7COjdWHL0aPPA9Eq-16vvgSfCSKuNprnHjm3k4HCyf7shR-TXiHUbLn-WdaDZCthGtHYHjTFRzWTv-682WhGhGJy6ne9UBN8JUhPrA}
+2021-01-10 21:42:14 INFO  StepModel:36 - 【用例开始执行】
+2021-01-10 21:42:14 INFO  StepModel:37 - 用例名称： departmentTestCase
+2021-01-10 21:42:14 INFO  StepModel:38 - 用例描述： 部门相关，增删改查测试用例
+2021-01-10 21:42:14 INFO  ApiTestCaseModel:83 - 用例变量更新： {getTimeStamp=1610286134671}
+2021-01-10 21:42:14 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'corpid' in [${corpid}] 
+2021-01-10 21:42:14 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'corpsecret' in [${corpsecret}] 
+2021-01-10 21:42:15 INFO  StepModel:121 - 全局变量更新： {accesstoken=i1L4rwJLrhwaC_ABHRvls7bPmWgKbTQj3RJRxwVuQofEwWLdC0GrFaxZtHqsdo0GWjiC8FdC-Fq8Zsrk5YXIYEuTNfSBGmgt5tzVj0ssWKTZ3uGE7COjdWHL0aPPA9Eq-16vvgSfCSKuNprnHjm3k4HCyf7shR-TXiHUbLn-WdaDZCthGtHYHjTFRzWTv-682WhGhGJy6ne9UBN8JUhPrA}
+2021-01-10 21:42:15 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:42:15 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name_en' in [{"name": "${name}","name_en": "${name_en}","parentid": 1}] 
+2021-01-10 21:42:18 INFO  StepModel:110 - step变量更新： {departmentId=14}
+2021-01-10 21:42:18 INFO  ApiTestCaseModel:94 - testcae变量更新： {getTimeStamp=1610286134671, departmentId=14}
+2021-01-10 21:42:18 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'departmentId' in [{ "id": ${departmentId}, "name": "${name}", "name_en": "${name_en}", "order": 1 }] 
+2021-01-10 21:42:18 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name' in [{ "id": ${departmentId}, "name": "${name}", "name_en": "${name_en}", "order": 1 }] 
+2021-01-10 21:42:18 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'name_en' in [{ "id": ${departmentId}, "name": "${name}", "name_en": "${name_en}", "order": 1 }] 
+2021-01-10 21:42:18 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'departmentId' in [${departmentId}] 
+2021-01-10 21:42:18 INFO  PlaceholderUtils:66 - Could not resolve placeholder 'departmentId' in [${departmentId}] 
+2021-01-10 22:26:11 INFO  Test07_HarToYamlTest:32 - Debug!
+2021-01-10 22:29:10 INFO  Test07_HarToYamlTest:32 - Debug!
